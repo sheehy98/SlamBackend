@@ -73,4 +73,4 @@ io.on('connection', (socket) => {
     })
 })
 
-server.listen(process.env.port)
+server.listen(process.env.PORT)
