@@ -4,7 +4,7 @@ const http = require('http')
 const { Server } = require("socket.io")
 const cors = require("cors")
 
-const CARDS = "ES OB EK TL TF QS GA YT PU RT HR MO JS FR BU HT WS AA WP NH EL FM IM AH SD CB OK MC IP KC LO PR EJ NS VM PD AT OS AN YD OV FN ZC ET BF ME FR EP IL DG ER AL"
+const CARDS = "ES OB EK TL TF CL GA YT PU RT HR MO JS FR BU HT WS AA WP NH EL FM IM AH SD CB OK MC IP KC LO PR EJ NS VM PD AT OS AN YD OV FN ZC ET BF ME FR EP IL DG ER AL"
 
 app.use(cors())
 
